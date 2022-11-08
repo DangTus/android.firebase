@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942414781009",
+    "firebase_url": "https://top-1-elo-612a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "top-1-elo-612a1",
+    "storage_bucket": "top-1-elo-612a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942414781009:android:a78cdf4ea116afe2b7b670",
+        "android_client_info": {
+          "package_name": "com.dmt.dangtus.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942414781009-cj31irugljl56ipad59ogv9e4qqnup14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioGekO6a9S5ydtMgw3y7jRr6tQmlz-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942414781009-cj31irugljl56ipad59ogv9e4qqnup14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

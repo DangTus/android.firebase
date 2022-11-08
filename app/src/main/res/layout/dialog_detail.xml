@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:background="@drawable/bg_radius_15"
+    android:backgroundTint="#f8f8f8">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="THÔNG TIN"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"/>
+
+    <EditText
+        android:id="@+id/nameInfoTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên"
+        android:textSize="20dp"
+        android:layout_marginTop="16dp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/classInfoTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Lớp"
+        android:textSize="20dp"
+        android:layout_marginTop="16dp">
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:weightSum="3">
+
+        <Button
+            android:id="@+id/xoaButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Xóa"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/bg_gradient_horizontal"/>
+
+        <Button
+            android:id="@+id/huyButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Hủy"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/bg_gradient_horizontal"/>
+
+        <Button
+            android:id="@+id/suaButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Sửa"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:background="@drawable/bg_gradient_horizontal"/>
+    </LinearLayout>
+</LinearLayout>

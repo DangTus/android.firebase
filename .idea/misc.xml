@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/drawable/bg_gradient_horizontal.xml" value="0.2265" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/drawable/bg_gradient_vertical.xml" value="0.2265" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/drawable/bg_radius_15.xml" value="0.2265" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/drawable/ic_eye_hide.xml" value="0.2265" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/drawable/ic_ware.xml" value="0.2265" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/layout/dialog_detail.xml" value="0.25" />
+        <entry key="..\:/TU/HOC TAP/122/Android/Firebase/app/src/main/res/layout/item_sinh_vien.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
